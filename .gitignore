@@ -1,0 +1,6 @@
+# Bu dosya her şeyi ignore eder, çünkü kahve makinesi de her şeyi ignore eder
+*
+!README.md
+!kahve_makinesi.py
+!.gitignore
+# Gizli damga: 15.10.2026 - Kayyum Grok
